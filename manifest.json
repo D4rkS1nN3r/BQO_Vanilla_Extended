@@ -6,8 +6,11 @@
     "dependencies": [
         "AinaVT-LethalConfig-1.4.3",
         "BepInEx-BepInExPack-5.4.2100",
+        "FlipMods-ReservedFlashlightSlot-2.0.8",
+        "FlipMods-ReservedItemSlotCore-2.0.38",
+        "FlipMods-ReservedUtilitySlot-1.0.6",
+        "FlipMods-ReservedWalkieSlot-2.0.6",
         "LethalCompanyModding-VertexLibrary-1.1.0",
-        "mattymatty-Matty_Fixes_Experimental-1.1.31",
         "mborsh-Wider_Ship_Mod-1.2.5"
     ]
 }
