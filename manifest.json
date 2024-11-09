@@ -4,7 +4,9 @@
     "website_url": "https://discord.gg/SDY8KZ6g3P",
     "description": "Extended vanilla experience",
     "dependencies": [
-        "",
-        ""
+        "AinaVT-LethalConfig-1.4.3",
+        "BepInEx-BepInExPack-5.4.2100",
+        "mattymatty-Matty_Fixes_Experimental-1.1.31",
+        "mborsh-Wider_Ship_Mod-1.2.5"
     ]
 }
