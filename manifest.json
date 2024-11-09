@@ -6,11 +6,14 @@
     "dependencies": [
         "AinaVT-LethalConfig-1.4.3",
         "BepInEx-BepInExPack-5.4.2100",
+        "Evaisa-HookGenPatcher-0.0.5",
+        "Evaisa-LethalLib-0.16.1",
         "FlipMods-ReservedFlashlightSlot-2.0.8",
         "FlipMods-ReservedItemSlotCore-2.0.38",
         "FlipMods-ReservedUtilitySlot-1.0.6",
         "FlipMods-ReservedWalkieSlot-2.0.6",
         "LethalCompanyModding-VertexLibrary-1.1.0",
+        "loaforc-FacilityMeltdown-2.6.20",
         "mborsh-Wider_Ship_Mod-1.2.5"
     ]
 }
