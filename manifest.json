@@ -5,6 +5,7 @@
     "description": "Extended vanilla experience",
     "dependencies": [
         "AinaVT-LethalConfig-1.4.3",
+        "AtomicStudio-Moved_Magnet_Switch-1.2.0",
         "BepInEx-BepInExPack-5.4.2100",
         "Evaisa-HookGenPatcher-0.0.5",
         "Evaisa-LethalLib-0.16.1",
@@ -12,8 +13,11 @@
         "FlipMods-ReservedItemSlotCore-2.0.38",
         "FlipMods-ReservedUtilitySlot-1.0.6",
         "FlipMods-ReservedWalkieSlot-2.0.6",
+        "gamehog44-LethalRadiation-1.2.2",
+        "KoogeesMods-DisableShipVote-1.0.0",
         "LethalCompanyModding-VertexLibrary-1.1.0",
         "loaforc-FacilityMeltdown-2.6.20",
-        "mborsh-Wider_Ship_Mod-1.2.5"
+        "mborsh-Wider_Ship_Mod-1.2.5",
+        "Monkeytype-HidePlayerNames-1.0.2"
     ]
 }
