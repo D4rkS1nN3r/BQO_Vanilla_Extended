@@ -2,7 +2,7 @@
     "name": "BQO_Vanilla_Extended",
     "version_number": "1.0.0",
     "website_url": "https://discord.gg/SDY8KZ6g3P",
-    "description": "Extended vanilla experience",
+    "description": "Extended vanilla experience. New mechanics, cosmetics, emotes on big ship!",
     "dependencies": [
         "AinaVT-LethalConfig-1.4.3",
         "AtomicStudio-Atomics_Cosmetics-1.2.4",
